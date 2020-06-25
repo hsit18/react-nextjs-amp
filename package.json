@@ -1,0 +1,31 @@
+{
+  "name": "react-nextjs-amp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "export": "next export"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hsit18/react-nextjs-amp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hsit18/react-nextjs-amp/issues"
+  },
+  "homepage": "https://github.com/hsit18/react-nextjs-amp#readme",
+  "dependencies": {
+    "@date-io/date-fns": "1.x",
+    "@material-ui/core": "^4.10.2",
+    "@material-ui/pickers": "^3.2.10",
+    "date-fns": "^2.14.0",
+    "next": "^9.4.4",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
